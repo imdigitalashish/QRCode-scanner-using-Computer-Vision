@@ -5,12 +5,11 @@
 git clone https://github.com/imdigitalashish/QRCode-scanner-using-Computer-Vision <br><br><br><br>
 
 <code>
-cd QRCode-scanner-using-Computer-Vision <br>
+cd QRCode-scanner-using-Computer-Vision </code> 
 
-<code>
 source venv/bin/activate <br>
 
-<code>
+
 python main.py <br> 
 
 
