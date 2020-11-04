@@ -7,11 +7,11 @@ git clone https://github.com/imdigitalashish/QRCode-scanner-using-Computer-Visio
 <code>
 cd QRCode-scanner-using-Computer-Vision </code> 
 
-source venv/bin/activate <br>
+<code>
+source venv/bin/activate <br> </code>
 
-
-python main.py <br> 
-
+<code>
+python main.py <br> </code>
 
 ## Then you are good to go
 ## Don't forget to give a start to repository
