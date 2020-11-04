@@ -1,4 +1,3 @@
-# This is repository for opencv python
 
 ## To run this just write below commands in terminal
 
@@ -16,4 +15,4 @@ python main.py </code> <br>
 ## Then you are good to go
 ## Don't forget to give a start to repository
 
-# Thank you
+### Thank you
