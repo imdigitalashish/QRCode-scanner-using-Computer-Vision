@@ -2,10 +2,13 @@
 
 ## To run this just write below commands in terminal
 
-git clone https://github.com/imdigitalashish/QRCode-scanner-using-Computer-Vision <br>
+git clone https://github.com/imdigitalashish/QRCode-scanner-using-Computer-Vision <br><br><br><br>
+
+<code>
 cd QRCode-scanner-using-Computer-Vision <br>
 source venv/bin/activate <br>
 python main.py <br> 
+
 
 ## Then you are good to go
 ## Don't forget to give a start to repository
